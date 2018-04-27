@@ -1,3 +1,9 @@
+# Simon Says Game implementation
+
+See https://www.freecodecamp.org/challenges/build-a-simon-game
+
+The CodePen for this project: https://codepen.io/tuhlmann/full/PebbQN/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
